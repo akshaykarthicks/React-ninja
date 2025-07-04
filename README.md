@@ -1,4 +1,4 @@
-git push# Minimal & Elite To-Do App
+# Minimal & Elite To-Do App
 
 
 A beautiful, minimal, and animated To-Do app built with **Django Ninja** (backend API) and **React** (frontend), inspired by Nothing OS design.
